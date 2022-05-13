@@ -8,7 +8,7 @@
     "serve": "webpack serve"
   },
   "keywords": [],
-  "author": "",
+  "author": "Evollt<levniko343@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.17.10",
